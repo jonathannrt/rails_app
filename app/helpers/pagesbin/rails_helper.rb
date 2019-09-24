@@ -1,0 +1,2 @@
+module Pagesbin::RailsHelper
+end
